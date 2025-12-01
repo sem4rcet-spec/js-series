@@ -1,4 +1,4 @@
-categorised on basis how data is stored and manipulated in memory
+// categorised on basis how data is stored and manipulated in memory
 
 // Primitive Data Types
 
@@ -29,3 +29,6 @@ let myObj = {
     age: 24,
     isLoggedIn: false
 }
+
+// stack is used to store primitive data types
+// heap is used to store non-primitive data types

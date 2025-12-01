@@ -4,7 +4,7 @@ var accountPassword = "12345";
 accountCity = "Jaipur";
 
 /*
-Prefer not to use va
+Prefer not to use var
 because it have issue in block scope and funtional scope.
 */
 
