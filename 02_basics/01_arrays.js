@@ -1,5 +1,8 @@
 // array
 
+//array ko copy karte h to shallow copy hoti hai
+//shallow copy mein array ki reference copy hoti hai yani actual array copy nahi hoti
+// deep copy mein actual array copy hoti hai
 const myArr = [0, 1, 2, 3, 4, 5]
 const myHeors = ["shaktiman", "naagraj"]
 
