@@ -50,7 +50,7 @@ function addone(num){
     return num + 1
 }
 
-
+//hosting doesn't work with function expressions
 
 addTwo(5)
 const addTwo = function(num){
