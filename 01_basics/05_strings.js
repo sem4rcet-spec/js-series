@@ -1,3 +1,4 @@
+//use always sting interpolation 
 const name = "hitesh"
 const repoCount = 50
 
