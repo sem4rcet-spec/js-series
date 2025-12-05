@@ -12,12 +12,14 @@ let myDate = new Date()
 let myCreatedDate = new Date("01-14-2023")
 // console.log(myCreatedDate.toLocaleString());
 
-let myTimeStamp = Date.now()
+let myTimeStamp = Date.now()        
+//Returns the current timestamp in milliseconds since January 1, 1970 (Unix epoch)
 
 // console.log(myTimeStamp);
 // console.log(myCreatedDate.getTime());
 // console.log(Math.floor(Date.now()/1000));
 
+// the day of the week (0-6, where 0 = Sunday, 6 = Saturday)
 let newDate = new Date()
 console.log(newDate);
 console.log(newDate.getMonth() + 1);
