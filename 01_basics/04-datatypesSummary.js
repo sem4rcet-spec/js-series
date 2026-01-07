@@ -30,5 +30,6 @@ let myObj = {
     isLoggedIn: false
 }
 
-// stack is used to store primitive data types
-// heap is used to store non-primitive data types
+// stack is used to store primitive data types , here we get copy of actual value
+
+// heap is used to store non-primitive data types , here we get reference of actual value so if we change value using one reference it will reflect in other reference also
